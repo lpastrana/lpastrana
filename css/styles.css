@@ -130,7 +130,6 @@ nav a:hover {
     width: 90%;
   }
   .about {
-    /* width: 80%; */
     font-size: 1.2em;
   }
   #projects {
@@ -147,9 +146,6 @@ nav a:hover {
   }
 }
 @media screen and (max-width: 686px) {
-  #wrapper {
-    /* width: 80%; */
-  }
   .about {
     font-size: 1em;
   }
